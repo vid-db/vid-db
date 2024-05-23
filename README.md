@@ -7,12 +7,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwind,bootstrap,vscode,git,github,figma" /> <br/>
+    <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript,typescript,tailwind,bootstrap,vscode,git,github,figma" />
 </div>
+<br/>
 
-<br/>
-<br/>
 
 <!--
 **vid-db/vid-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
