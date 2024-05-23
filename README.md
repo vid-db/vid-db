@@ -10,6 +10,8 @@
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python" />
     <img src="https://skillicons.dev/icons?i=tailwind,vscode,git,github,figma" /><br>
 </div>
+<br/>
+<br/>
 
 <!--
 **vid-db/vid-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
