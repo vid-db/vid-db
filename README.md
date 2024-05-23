@@ -6,9 +6,9 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt molestie tellus vitae placerat. Aliquam vulputate sapien maximus urna semper, non pellentesque ipsum tincidunt. Suspendisse at ligula eu risus egestas commodo eget eu nunc. Aenean egestas ullamcorper libero, ac pellentesque mauris. Praesent erat mauris, viverra ut mauris finibus, scelerisque porttitor nibh.
 
 <p align="center">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="15" width="25" /></a>
-<a href="https://www.linkedin.com/in/david-bautista-033b682a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="15" width="25"" /></a>
-<a href="https://www.facebook.com/profile.php?id=100088191261338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishav_chanda" height="15" width="25"" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="15" width="25" /></a>
+<a href="https://www.linkedin.com/in/david-bautista-033b682a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="15" width="25"" /></a>
+<a href="https://www.facebook.com/profile.php?id=100088191261338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="15" width="25"" /></a>
 </p>
  
 
