@@ -9,7 +9,7 @@
 </p>
 </h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt molestie tellus vitae placerat. Aliquam vulputate sapien maximus urna semper, non pellentesque ipsum tincidunt. Suspendisse at ligula eu risus egestas commodo eget eu nunc. Aenean egestas ullamcorper libero, ac pellentesque mauris. Praesent erat mauris, viverra ut mauris finibus, scelerisque porttitor nibh.
+<!--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt molestie tellus vitae placerat. Aliquam vulputate sapien maximus urna semper, non pellentesque ipsum tincidunt. Suspendisse at ligula eu risus egestas commodo eget eu nunc. Aenean egestas ullamcorper libero, ac pellentesque mauris. Praesent erat mauris, viverra ut mauris finibus, scelerisque porttitor nibh. -->
 
 <h3 align="center">Languages . Frameworks . Tools</h3>
 <div align="center">
