@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vid-db.vid-db" />
-15" width="25"" /></a>
-</p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+David+Bautista!;" />
-        <p align="center">
+<p align="center">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="15" width="25" /></a>
 <a href="https://www.linkedin.com/in/david-bautista-033b682a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="15" width="25"" /></a><a href="https://www.facebook.com/profile.php?id=100088191261338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="15" width="25"" /></a>
+</p>
 </h1>
 <p align="center">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt molestie tellus vitae placerat. Aliquam vulputate sapien maximus urna semper, non pellentesque ipsum tincidunt. Suspendisse at ligula eu risus egestas commodo eget eu nunc. Aenean egestas ullamcorper libero, ac pellentesque mauris. Praesent erat mauris, viverra ut mauris finibus, scelerisque porttitor nibh.
