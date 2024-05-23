@@ -5,7 +5,7 @@
 </h1>
  
 
-<h2">💻 Languages-Frameworks-Tools 💻</h2>
+<h2" align="center" a>💻 Languages-Frameworks-Tools 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript" />
