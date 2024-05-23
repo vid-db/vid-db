@@ -14,8 +14,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt moles
 
 <h3 align="center">Languages . Frameworks . Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript" />
-    <img src="https://skillicons.dev/icons?i=typescript,tailwind,bootstrap,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript,typescript,tailwind,bootstrap,vscode,git,github,figma" />
+
 </div>
 <br/>
 
