@@ -7,7 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt moles
  
 
 <h3>Languages . Frameworks . Tools</h3>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript" />
     <img src="https://skillicons.dev/icons?i=typescript,tailwind,bootstrap,vscode,git,github,figma" />
