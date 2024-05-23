@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt moles
      <img src="https://skillicons.dev/icons?i=bootstrap,vscode,git,github,figma" />
 </div>
 <br/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">Stats</h3>
 <br>
 <!-- <div align=center>
   <img width=390 src="https://github-readme-streak-stats-vid-db.vercel.app/?user=vid-db&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
