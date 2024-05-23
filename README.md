@@ -8,13 +8,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python" />
-    <img src="https://skillicons.dev/icons?i=tailwind,vscode,git,github,figma" /> <br/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwind,bootstrap,vscode,git,github,figma" /> <br/>
 </div>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
+
 <br/>
 <br/>
 
