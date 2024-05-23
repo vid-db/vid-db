@@ -7,12 +7,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt moles
 <p align="center">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="15" width="25" /></a>
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="10" width="20" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="10" width="20" /></a>
+<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="15" width="25"" /></a>
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="10" width="20" /></a>
 </p>
  
 
-<h3>Languages . Frameworks . Tools</h3>
+<h3 align="center">Languages . Frameworks . Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript" />
     <img src="https://skillicons.dev/icons?i=typescript,tailwind,bootstrap,vscode,git,github,figma" />
