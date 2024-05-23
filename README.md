@@ -6,7 +6,7 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt molestie tellus vitae placerat. Aliquam vulputate sapien maximus urna semper, non pellentesque ipsum tincidunt. Suspendisse at ligula eu risus egestas commodo eget eu nunc. Aenean egestas ullamcorper libero, ac pellentesque mauris. Praesent erat mauris, viverra ut mauris finibus, scelerisque porttitor nibh. Vivamus ligula dui,
  
 
-<h2 align = 'center'>💻 Languages-Frameworks-Tools 💻</h2>
+<h2>Languages . Frameworks . Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript" />
