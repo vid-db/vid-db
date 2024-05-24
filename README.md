@@ -9,7 +9,7 @@
 </p>
 </h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt molestie tellus vitae placerat. Aliquam vulputate sapien maximus urna semper, non pellentesque ipsum tincidunt. Suspendisse at ligula eu risus egestas commodo eget eu nunc. Aenean egestas ullamcorper libero, ac pellentesque mauris. Praesent erat mauris, viverra ut mauris finibus, scelerisque porttitor nibh.
+I'm a ethusiast web developer with with a Bachelor’s degree in Information Technology. I have a passion for crafting seamless frontend interfaces with a unique blend of creativity and technical expertise to every project, combining innovative design concepts with robust development solutions.
 
 <h3 align="center">Languages . Frameworks . Tools</h3>
 <div align="center">
