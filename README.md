@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt moles
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript,typescript,tailwind" />
      <img src="https://skillicons.dev/icons?i=bootstrap,vscode,git,github,figma" />
 </div>
-<br/>
+<!-- <br/>
 <h3 align="center">Stats</h3>
 <br>
 <div align=center>
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt moles
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+ -->
 
 <!--
 **vid-db/vid-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
