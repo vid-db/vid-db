@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/david-bautista-033b682a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="15" width="25"" /></a><a href="https://www.facebook.com/profile.php?id=100088191261338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="15" width="25"" /></a>
 </p>
 </h1>
-<p align="center">
+<p>
 I'm a ethusiast web developer with a Bachelor’s degree in Information Technology. I have a passion for crafting seamless frontend interfaces with a unique blend of creativity and technical expertise to every project, combining innovative design concepts with robust development solutions.
 </p>
 
