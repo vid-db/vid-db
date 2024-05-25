@@ -1,3 +1,6 @@
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vid-db.vid-db" />
 
 
@@ -19,7 +22,6 @@ I'm a ethusiast web developer with a Bachelor’s degree in Information Technolo
 <!-- <br/>
 <h3 align="center">Stats</h3>
 
-| `holi` ![holi][holi] | `neon` ![neon][neon] | `blue_navy` ![blue_navy][blue_navy] |
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-vid-db.vercel.app/?user=vid-db&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
