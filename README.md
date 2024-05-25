@@ -17,15 +17,15 @@ I'm a ethusiast web developer with a Bachelor’s degree in Information Technolo
      <img src="https://skillicons.dev/icons?i=bootstrap,vscode,git,github,figma" />
 </div>
 <br/>
-
 <h3 align="center">Stats</h3>
 
 <div align=center>
   <img width=350 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vid-db&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
     
   <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=vid-db&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <img width=315 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vid-db&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
+  <img width=350 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vid-db&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
