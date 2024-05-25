@@ -11,18 +11,18 @@
 
 I'm a ethusiast web developer with a Bachelor’s degree in Information Technology. I have a passion for crafting seamless frontend interfaces with a unique blend of creativity and technical expertise to every project, combining innovative design concepts with robust development solutions.
 
-<h3 align="center"> . Languages . Frameworks . Tools . </h3>
+<h3 align="center"> Languages . Frameworks . Tools</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,nodejs,php,mysql,html,javascript,java,python,javascript,typescript,tailwind" />
      <img src="https://skillicons.dev/icons?i=bootstrap,vscode,git,github,figma" />
 </div>
 
-<h3 align="center"> . Statistic. </h3>
+<h3 align="center" >Statistic</h3>
 <div>
-    
   <img width=300 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vid-db&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  
   <img width=300  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vid-db&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
   <img width=300  src="https://github-readme-stats-salesp07.vercel.app/api?username=vid-db&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
