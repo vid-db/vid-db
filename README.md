@@ -16,7 +16,7 @@ I'm an ethusiast web developer with a Bachelor’s degree in Information Technol
 <h3 align="center"> TECH STACK</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,mui,php,mysql,html,javascript,java,python,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,html,css,mui,tailwind,php,mysql,html,javascript,java,python" />
     <img src="https://skillicons.dev/icons?i=bootstrap,vscode,git,github,figma" />
 </div>
 
