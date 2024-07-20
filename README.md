@@ -10,7 +10,7 @@
 </h1>
 
 <p>
-I'm a ethusiast web developer with a Bachelor’s degree in Information Technology. I have a passion for crafting seamless frontend interfaces with a unique blend of creativity and technical expertise to every project, combining innovative design concepts with robust development solutions.
+I'm an ethusiast web developer with a Bachelor’s degree in Information Technology. I have a passion for crafting seamless frontend interfaces with a unique blend of creativity and technical expertise to every project, combining innovative design concepts with robust development solutions.
 </p>
 
 <h3 align="center"> TECH STACK</h3>
