@@ -17,7 +17,7 @@ I'm an ethusiast web developer with a Bachelor’s degree in Information Technol
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,html,css,mui,tailwind,bootstrap,php,mysql" />
-    <img src="https://skillicons.dev/icons?i=java,pythonvscode,cpp,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=java,python,vscode,cpp,git,github,figma" />
 </div>
 
 <h3 align="center">STATISTICS</h3>
