@@ -10,7 +10,7 @@
 </h1>
 
 <p>
-I am an web developer ethusiast based in the Philippines. I recently graduated with a Bachelor's degree in Information Technology major in web and mobile development. I am passionate in for crafting seamless and efficient development solutions with a unique blend of creativity and technical expertise to every project. I'm currently specializing in web development using JavaScript, TypeScript, Next.js, React, Node Js, Axios, Express Js, Prisma, MySQL, Postgresql, CSS frameworks such as Tailwind CSS, Material UI, Shadcn and more.
+I am an Software developer enthusiast, based in the Philippines with a degree in Bachelor's degree in Information Technology major in web and mobile development. Driven by a passion for continuous learning, I focus on crafting seamless, efficient digital solutions by pairing a unique blend of creativity with strong technical expertise. I'm currently specializing in web development using JavaScript, TypeScript, Next.js, React, Node Js, Axios, Express Js, Prisma, MySQL, Postgresql, CSS frameworks such as Tailwind CSS, Material UI, Shadcn and more.
 </p>
 
 <h3 align="center"> TECH STACK</h3>
